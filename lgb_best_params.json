@@ -1,0 +1,19 @@
+{
+  "params": {
+    "learning_rate": 0.020436104550496336,
+    "num_leaves": 18,
+    "min_child_samples": 10,
+    "reg_lambda": 1.0314766189688245,
+    "reg_alpha": 0.06834350387455623,
+    "colsample_bytree": 0.6601590998714854,
+    "subsample": 0.8723229192334018
+  },
+  "final_iterations": 983,
+  "cv_daily_ap": 0.6996,
+  "fold_scores": [
+    0.6913,
+    0.7078,
+    0.6998
+  ],
+  "n_trials": 60
+}

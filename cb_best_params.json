@@ -1,0 +1,19 @@
+{
+  "params": {
+    "learning_rate": 0.0729379983620306,
+    "depth": 4,
+    "l2_leaf_reg": 3.7659299912014714,
+    "random_strength": 1.9019075992651484,
+    "bagging_temperature": 1.594995700892735,
+    "border_count": 221,
+    "min_data_in_leaf": 55
+  },
+  "final_iterations": 992,
+  "cv_daily_ap": 0.6977,
+  "fold_scores": [
+    0.686,
+    0.7155,
+    0.6916
+  ],
+  "n_trials": 34
+}
